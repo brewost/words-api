@@ -1,0 +1,40 @@
+{
+  "insults": [
+    {
+      "id": 1,
+      "slang": "poop",
+      "def_en": "poop",
+      "def_fr": "poop"
+    },
+    {
+      "id": 2,
+      "slang": "poop",
+      "def_en": "poop",
+      "def_fr": "poop"
+    },
+    {
+      "id": 3,
+      "slang": "poop",
+      "def_en": "poop",
+      "def_fr": "poop"
+    },
+    {
+      "id": 4,
+      "slang": "poop",
+      "def_en": "poop",
+      "def_fr": "poop"
+    },
+    {
+      "id": 5,
+      "slang": "poop",
+      "def_en": "poop",
+      "def_fr": "poop"
+    }
+  ],
+  "fromage": [
+    {
+      "id": 1,
+      "fromage": "babybel"
+    }
+  ]
+}
