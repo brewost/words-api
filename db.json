@@ -3,14 +3,14 @@
     {
       "id": 1,
       "slang": "Balderdash",
-      "def_en": "Nonsense; something that makes no sense. It's a more colorful way to express disbelief in what someone is saying.",
-      "def_fr": "Absurde ; quelque chose qui n'a pas de sens. C'est une façon plus imagée d'exprimer son incrédulité à l'égard de ce que dit quelqu'un."
+      "def_en": "Nonsense; something that makes no sense. ",
+      "def_fr": "Absurde ; quelque chose qui n'a pas de sens. "
     },
     {
       "id": 2,
-      "slang": "Blithering Idiot",
-      "def_en": "An utterly foolish or senseless person.",
-      "def_fr": "Une personne complètement folle ou insensée."
+      "slang": "Blasted",
+      "def_en": "Used to express annoyance",
+      "def_fr": "Utilisé pour exprimer la gêne"
     },
     {
       "id": 3,
@@ -21,8 +21,8 @@
     {
       "id": 4,
       "slang": "Codswallop",
-      "def_en": "Nonsense or foolish talk. The origins of this term are murky, but it's a wonderfully evocative way to call out baloney.",
-      "def_fr": "Bêtise ou propos insensés. L'origine de ce terme est obscure, mais c'est une façon merveilleusement évocatrice de dénoncer les balivernes."
+      "def_en": "Nonsense or foolish talk. ",
+      "def_fr": "Bêtise ou propos insensés. "
     },
     {
       "id": 5,
@@ -56,7 +56,7 @@
     },
     {
       "id": 10,
-      "slang": "Shit-faced",
+      "slang": "Shitfaced",
       "def_en": "Very drunk",
       "def_fr": "Très ivre"
     },
@@ -86,21 +86,21 @@
     },
     {
       "id": 15,
-      "slang": "Cock-up",
+      "slang": "Cockup",
       "def_en": "A mistake or failure. ex - I made a right cock-up of that",
       "def_fr": "Une erreur ou un échec. ex - J'ai fait une belle connerie avec ça"
     },
     {
       "id": 16,
       "slang": "Dafty",
-      "def_en": "A Scottish term for someone who's a bit foolish or has done something silly.",
-      "def_fr": "Terme écossais désignant une personne un peu idiote ou ayant fait une bêtise."
+      "def_en": "A Scottish term for someone who's a bit foolish.",
+      "def_fr": "Terme écossais désignant une personne un peu idiote."
     },
     {
       "id": 17,
       "slang": "Eejit",
-      "def_en": "The Irish version of idiot, it's playful and not particularly harsh, often used affectionately to imply someone's being silly",
-      "def_fr": "La version irlandaise d'idiot, ce terme est enjoué et pas particulièrement dur, souvent utilisé de manière affectueuse pour suggérer que quelqu'un est stupide"
+      "def_en": "The Irish version of idiot, often used affectionately to imply someone's being silly",
+      "def_fr": "La version irlandaise d'idiot, souvent utilisé de manière affectueuse pour suggérer que quelqu'un est stupide"
     },
     {
       "id": 18,
@@ -111,14 +111,14 @@
     {
       "id": 19,
       "slang": "Bloody",
-      "def_en": "Places emphasis on a comment or another word, it is regarded as a mild expletive.",
-      "def_fr": "Met l'accent sur un commentaire ou un autre mot, il est considéré comme un juron léger."
+      "def_en": "Places emphasis on another word, it is regarded as a mild expletive.",
+      "def_fr": "Met l'accent sur un autre mot, il est considéré comme un juron léger."
     },
     {
       "id": 20,
       "slang": "Chancer",
-      "def_en": "Someone who takes advantage of situations unethically. It implies a sort of admiration for the person's gall, even while disapproving of their actions.",
-      "def_fr": "Quelqu'un qui profite d'une situation de manière contraire à l'éthique. Cela implique une sorte d'admiration pour le culot de la personne, même si l'on désapprouve ses actions."
+      "def_en": "Someone who takes advantage of situations unethically.",
+      "def_fr": "Quelqu'un qui profite d'une situation de manière contraire à l'éthique."
     },
     {
       "id": 21,
@@ -130,19 +130,19 @@
       "id": 22,
       "slang": "Proper",
       "def_en": "Is used as an alternative to “very” or “extremely.” ex - that's proper mad innit?",
-      "def_fr": "Est utilisé comme alternative à très ou extrêmement. ex - that's proper mad n'est-ce pas ?"
+      "def_fr": "Est utilisé comme alternative à très ou extrêmement."
     },
     {
       "id": 23,
-      "slang": "Sod-off",
-      "def_en": " Go away; depart",
-      "def_fr": "S'en aller ; partir"
+      "slang": "Sod",
+      "def_en": "An unpleasant person",
+      "def_fr": "Une personne désagréable"
     },
     {
       "id": 24,
-      "slang": "Taking the piss",
-      "def_en": "You have got to be joking.",
-      "def_fr": "Vous devez plaisanter."
+      "slang": "Bonkers",
+      "def_en": "Crazy ",
+      "def_fr": "Fou"
     },
     {
       "id": 25,
@@ -158,9 +158,9 @@
     },
     {
       "id": 27,
-      "slang": "Sod",
-      "def_en": "A mildly derogatory term for a person, similar to git or bugger.",
-      "def_fr": "Terme légèrement péjoratif désignant une personne, similaire à git ou bugger."
+      "slang": "Cadger",
+      "def_en": "Person who tries to get something from someone else without paying for it:",
+      "def_fr": "Personne qui essaie d'obtenir quelque chose de quelqu'un d'autre sans le payer"
     },
     {
       "id": 28,
@@ -177,8 +177,8 @@
     {
       "id": 30,
       "slang": "Blighter",
-      "def_en": "Someone who messes things up. A ruiner. Someone whose behavior causes disruption or inconvenience.",
-      "def_fr": "Quelqu'un qui met le bazar. Un destructeur. Quelqu'un dont le comportement provoque des perturbations ou des désagréments."
+      "def_en": "Someone who messes things up. ",
+      "def_fr": "Quelqu'un qui met le bazar."
     }
   ],
   "fromage": [
