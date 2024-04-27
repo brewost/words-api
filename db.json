@@ -3,8 +3,8 @@
     {
       "id": 1,
       "slang": "Balderdash",
-      "def_en": "Nonsense; something that makes no sense. ",
-      "def_fr": "Absurde ; quelque chose qui n'a pas de sens. "
+      "def_en": "Nonsense; something that makes no sense",
+      "def_fr": "Absurde; quelque chose qui n'a pas de sens"
     },
     {
       "id": 2,
@@ -21,38 +21,38 @@
     {
       "id": 4,
       "slang": "Codswallop",
-      "def_en": "Nonsense or foolish talk. ",
-      "def_fr": "Bêtise ou propos insensés. "
+      "def_en": "Nonsense or foolish talk ",
+      "def_fr": "Bêtise ou propos insensés "
     },
     {
       "id": 5,
       "slang": "Dodgy",
-      "def_en": "Something or someone that is suspicious, dishonest, or unreliable.",
-      "def_fr": "Quelque chose ou quelqu'un de suspect, de malhonnête ou de peu fiable."
+      "def_en": "Something or someone that is suspicious, dishonest, or unreliable",
+      "def_fr": "Quelque chose ou quelqu'un de suspect, de malhonnête ou de peu fiable"
     },
     {
       "id": 6,
       "slang": "Gobshite",
-      "def_en": "Someone who talks nonsense or boasts to deceive.",
-      "def_fr": "Quelqu'un qui dit des bêtises ou se vante pour tromper."
+      "def_en": "Someone who talks nonsense or boasts to deceive",
+      "def_fr": "Quelqu'un qui dit des bêtises ou se vante pour tromper"
     },
     {
       "id": 7,
       "slang": "Git",
-      "def_en": "A contemptible person, often used to express disdain or anger towards someone.",
-      "def_fr": "Personne méprisable, souvent utilisé pour exprimer le dédain ou la colère à l'égard de quelqu'un."
+      "def_en": "A contemptible person, often used to express disdain towards someone",
+      "def_fr": "Personne méprisable, souvent utilisé pour exprimer le dédain à quelqu'un"
     },
     {
       "id": 8,
       "slang": "Gutted",
       "def_en": "This just means devastated, but sounds way better",
-      "def_fr": "Cela signifie simplement dévasté, mais c'est beaucoup mieux."
+      "def_fr": "Cela signifie simplement dévasté, mais c'est beaucoup mieux"
     },
     {
       "id": 9,
       "slang": "Muppet",
-      "def_en": "A foolish or inept person.",
-      "def_fr": "Personne stupide ou inepte."
+      "def_en": "A foolish or inept person",
+      "def_fr": "Personne stupide ou inepte"
     },
     {
       "id": 10,
@@ -63,74 +63,74 @@
     {
       "id": 11,
       "slang": "Twonk",
-      "def_en": "A stupid person, foolish, inept.",
-      "def_fr": "Une personne stupide, idiote, inepte."
+      "def_en": "A stupid person, foolish, inept",
+      "def_fr": "Une personne stupide, idiote, inepte"
     },
     {
       "id": 12,
       "slang": "Shite",
-      "def_en": "Shit; trash; rubbish; nonsense. ",
-      "def_fr": "Merde ; déchets ; ordures ; non-sens."
+      "def_en": "Shit; trash; rubbish; nonsense",
+      "def_fr": "Merde ; déchets ; ordures ; non-sens"
     },
     {
       "id": 13,
       "slang": "Nutter",
-      "def_en": "A foolish or eccentric person.",
-      "def_fr": "Une personne idiote ou excentrique."
+      "def_en": "A foolish or eccentric person",
+      "def_fr": "Une personne idiote ou excentrique"
     },
     {
       "id": 14,
       "slang": "Knackered",
-      "def_en": "Extremely tired.",
-      "def_fr": "Extrêmement fatigué."
+      "def_en": "Extremely tired",
+      "def_fr": "Extrêmement fatigué"
     },
     {
       "id": 15,
       "slang": "Cockup",
       "def_en": "A mistake or failure. ex - I made a right cock-up of that",
-      "def_fr": "Une erreur ou un échec. ex - J'ai fait une belle connerie avec ça"
+      "def_fr": "Une erreur ou un échec"
     },
     {
       "id": 16,
       "slang": "Dafty",
-      "def_en": "A Scottish term for someone who's a bit foolish.",
-      "def_fr": "Terme écossais désignant une personne un peu idiote."
+      "def_en": "A Scottish term for someone who's a bit foolish",
+      "def_fr": "Terme écossais désignant une personne un peu idiote"
     },
     {
       "id": 17,
       "slang": "Eejit",
-      "def_en": "The Irish version of idiot, often used affectionately to imply someone's being silly",
-      "def_fr": "La version irlandaise d'idiot, souvent utilisé de manière affectueuse pour suggérer que quelqu'un est stupide"
+      "def_en": "The Irish version of idiot, often used affectionately",
+      "def_fr": "La version irlandaise d'idiot, souvent utilisé de manière affectueuse"
     },
     {
       "id": 18,
       "slang": "Gormless",
-      "def_en": "Lacking intelligence, sense, or discernment.",
-      "def_fr": "Manque d'intelligence, de sens ou de discernement."
+      "def_en": "Lacking intelligence, sense, or discernment",
+      "def_fr": "Manque d'intelligence, de sens ou de discernement"
     },
     {
       "id": 19,
       "slang": "Bloody",
-      "def_en": "Places emphasis on another word, it is regarded as a mild expletive.",
-      "def_fr": "Met l'accent sur un autre mot, il est considéré comme un juron léger."
+      "def_en": "Places emphasis on another word, it is regarded as a mild expletive",
+      "def_fr": "Met l'accent sur un autre mot, il est considéré comme un juron léger"
     },
     {
       "id": 20,
       "slang": "Chancer",
-      "def_en": "Someone who takes advantage of situations unethically.",
-      "def_fr": "Quelqu'un qui profite d'une situation de manière contraire à l'éthique."
+      "def_en": "Someone who takes advantage of situations unethically",
+      "def_fr": "Quelqu'un qui profite d'une situation de manière non éthique"
     },
     {
       "id": 21,
       "slang": "Mardy",
-      "def_en": "Used to describe someone who is sulky or whiny.",
-      "def_fr": "Utilisé pour décrire quelqu'un qui est boudeur ou pleurnichard."
+      "def_en": "Used to describe someone who is sulky or whiny",
+      "def_fr": "Utilisé pour décrire quelqu'un qui est boudeur ou pleurnichard"
     },
     {
       "id": 22,
       "slang": "Proper",
       "def_en": "Is used as an alternative to “very” or “extremely.” ex - that's proper mad innit?",
-      "def_fr": "Est utilisé comme alternative à très ou extrêmement."
+      "def_fr": "Est utilisé comme alternative à très ou extrêmement"
     },
     {
       "id": 23,
@@ -141,44 +141,44 @@
     {
       "id": 24,
       "slang": "Bonkers",
-      "def_en": "Crazy ",
+      "def_en": "Crazy",
       "def_fr": "Fou"
     },
     {
       "id": 25,
       "slang": "Tosspot",
-      "def_en": "Originally referred to a drunkard but now means a contemptible or foolish person.",
-      "def_fr": "Désignait à l'origine un ivrogne, mais désigne aujourd'hui une personne méprisable ou idiote."
+      "def_en": "Originally referred to a drunkard but now means a foolish person",
+      "def_fr": "Désignait à l'origine un ivrogne, mais désigne aujourd'hui une personne idiote"
     },
     {
       "id": 26,
       "slang": "Skiver",
-      "def_en": "A person who avoids work or responsibility.",
-      "def_fr": "Personne qui évite le travail ou les responsabilités."
+      "def_en": "A person who avoids work or responsibility",
+      "def_fr": "Personne qui évite le travail ou les responsabilités"
     },
     {
       "id": 27,
       "slang": "Cadger",
-      "def_en": "Person who tries to get something from someone else without paying for it:",
+      "def_en": "Person who tries to get something from someone else without paying for it",
       "def_fr": "Personne qui essaie d'obtenir quelque chose de quelqu'un d'autre sans le payer"
     },
     {
       "id": 28,
       "slang": "Clot",
-      "def_en": "A stupid or clumsy person.",
-      "def_fr": "Personne stupide ou maladroite."
+      "def_en": "A stupid or clumsy person",
+      "def_fr": "Personne stupide ou maladroite"
     },
     {
       "id": 29,
       "slang": "Mug",
-      "def_en": "A gullible person, easily deceived.",
-      "def_fr": "Personne crédule, facilement trompée."
+      "def_en": "A gullible person, easily deceived",
+      "def_fr": "Personne crédule, facilement trompée"
     },
     {
       "id": 30,
       "slang": "Blighter",
-      "def_en": "Someone who messes things up. ",
-      "def_fr": "Quelqu'un qui met le bazar."
+      "def_en": "Someone who messes things up",
+      "def_fr": "Quelqu'un qui met le bazar"
     }
   ],
   "fromage": [
